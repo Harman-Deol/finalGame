@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/grassRun.mp3-8fab425b3ecfafcc46e1122539c30bb9.mp3str"
+
+[deps]
+
+source_file="res://Sounds/grassRun.mp3"
+dest_files=[ "res://.import/grassRun.mp3-8fab425b3ecfafcc46e1122539c30bb9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
